@@ -21,7 +21,7 @@ public class Anagram {
 
     public static void main(String[] args) {
         System.out.println(areAnagram("listen", "silent"));
-        System.out.println(areAnagram("unity", "unit"));
+        System.out.println(areAnagram("unity", "uniti"));
     }
 }
 
